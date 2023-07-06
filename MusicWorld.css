@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-logo {
+    height: 60px;
+    border-radius: 100px;
+}
+
+.button-type-music {
+    color: black;
+    border-color: white;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 10px;
+    font-family: "Roboto";
+}
+
+.navbar {
+    background-image: linear-gradient(to left, #ee82ee, #0000ff);
+    border-radius: 5px;
+}
+
+#nav1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#nav2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#nav3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#nav4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.bg-container {
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.LVPxntJt5Gz4v-qzB3jTEgHaEo&pid=Api&P=0&h=180");
+    height: 100vh;
+    background-size: cover;
+}
+
+.Home-heading {
+    background-image: linear-gradient(to right, #d0b200, #ffffff, #5a7184);
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+
+.music-span {
+    color: black;
+    font-size: 23px;
+    font-weight: normal;
+}
+
+.music-card {
+    padding: 10px;
+}
+
+.button-type-music {
+    background-color: skyblue;
+
+}
+
+.image {
+    height: 150px;
+    width: 160px;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.page-description {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.musician-image {
+    border-radius: 120px;
+}
+
+.musician-image2 {
+    border-radius: 150px;
+    height: 200px;
+    width: 220px;
+}
+
+.sub-heading {
+    font-size: 30px;
+    color: #323f4b;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.type-music {
+    font-size: 25px;
+    color: #323f4b;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.read-more {
+    height: 50px;
+    width: 150px;
+    background-color: #6a5acd;
+    font-family: "Roboto";
+    border-radius: 10px;
+    padding: 3px;
+    color: white;
+}
+
+.whts-new_heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.music-card-container {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-color: #e5eaf4;
+    border-radius: 10px;
+}
+
+.sub-text {
+    font-size: 25px;
+}
+
+.follow-us-icon-container {
+    background-color: #87ceeb;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.follow-heading {
+    text-align: center;
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.follow-container {
+    background-color: #c41e3a;
+    width: 100%;
+}
+
+.icon {
+    font-size: 40px;
+}
+
+.button {
+    color: white;
+    border-color: white;
+    padding: 10px;
+    background-color: transparent;
+    border-radius: 10px;
+    font-family: "Roboto";
+}
